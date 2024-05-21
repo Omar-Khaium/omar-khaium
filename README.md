@@ -8,9 +8,10 @@
 
 ## 🏛 Education
 
-**American International University - Bangladesh(AIUB).**
-`Passing Year` : `2019`
-`Major` : `Computer Science and Engineering`
+**American International University - Bangladesh(AIUB)**
+
+**Year**  : `2019`</br>
+**Major** : `Computer Science and Engineering`
 
 ---
 
