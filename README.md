@@ -32,6 +32,7 @@
 - **Operating System** : `Windows`, `Linux`, `MacOS`
 
 ---
+[![Omar's Github Stats](https://github-readme-stats.vercel.app/api?username=omar-khaium&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/omar-khaium)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=omar-khaium&theme=dark)
 
